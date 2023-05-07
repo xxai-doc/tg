@@ -7,3 +7,4 @@
 * [рамзи пештара](https://github.com/xxai-art/web)
 * [Бастаҳои забонӣ барои сайт дар маҷмӯъ](https://github.com/xxai-art/web/tree/main/i18n)
 * [Бастаҳои забонӣ барои модулҳои воридшавӣ](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [Ҳуҷҷатҳои бисёрзабони вебсайт](https://github.com/xxai-doc)
